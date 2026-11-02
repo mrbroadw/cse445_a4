@@ -1,21 +1,85 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <NationalParks>
-	<NationalPark Rating="4.9">
+	
+	<NationalPark Rating="4.9"> // The provided national park from the diagram
 		<Name>Grand Canyon</Name>
-		
 		<Phone>928-638-7496</Phone>
 		<Phone>888-297-2757</Phone>
 		<Phone>866-499-2574</Phone>
-
 		<Address NearestAirport="FlagStaff">
-
 			<Number>8</Number>
 			<Street>S Entrance Road</Street>
 			<City>Grand Canyon</City>
 			<State>AZ</State>
 			<Zip>86023</Zip>
-
 		</Address>
 	</NationalPark>
+	
+	// Park 1 Yosemite
+	<NationalPark Rating="4.8">
+		<Name>Yosemite</Name>
+		<Phone>866-425-3366</Phone>
+		<Phone>209-372-0200</Phone>
+		<Address NearestAirport="Fresno">
+			<Number>1</Number> // The 1 isn't in the actual address but I just needed something here
+			<Street>Tioga Rd</Street>
+			<City>Yosemite Valley</City>
+			<State>CA</State>
+			<Zip>95389</Zip>
+		</Address>
+	</NationalPark>
+	
+	// Park 2 Saguaro National Park
+	<NationalPark Rating="4.8">
+		<Name>Saguaro</Name>
+		<Phone>520-733-5153</Phone>
+		<Address NearestAirport="Tuscon">
+			<Number>3693</Number>
+			<Street>S Old Spanish Trail</Street>
+			<City>Tuscon</City>
+			<State>AZ</State>
+			<Zip>85730</Zip>
+		</Address>
+	</NationalPark>
+
+	// Park 3 Mammoth Cave National Park
+	<NationalPark Rating="4.7">
+		<Name>Mammoth Cave</Name>
+		<Phone>270-758-2180</Phone>
+		<Address NearestAirport="Nashville">
+			<Number>7</Number>
+			<Street>Mammoth Cave</Street>
+			<City>Cave City</City>
+			<State>KY</State>
+			<Zip>42259-0007</Zip>
+		</Address>
+	</NationalPark>
+
+	// Park 4 Zion National Park
+	<NationalPark Rating="4.8">
+		<Name>Zion</Name>
+		<Phone>435-772-3256</Phone>
+		<Address NearestAirport="St. George">
+			<Number>1</Number>
+			<Street>Zion Park Blvd.</Street>
+			<City>Springdale</City>
+			<State>UT</State>
+			<Zip>84767</Zip>
+		</Address>
+	</NationalPark>
+
+	// Park 5 Bryce Canyon National Park
+	<NationalPark Rating="4.9">
+		<Name>Bryce Canyon</Name>
+		<Phone>435-834-5322</Phone>
+		<Address NearestAirport="Bryce Canyon Airport">
+			<Number>165</Number>
+			<Street>S Main St</Street>
+			<City>Bryce Canyon City</City>
+			<State>UT</State>
+			<Zip>84764</Zip>
+		</Address>
+	</NationalPark>
+	
 </NationalParks>
