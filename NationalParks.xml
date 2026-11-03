@@ -81,5 +81,72 @@
 			<Zip>84764</Zip>
 		</Address>
 	</NationalPark>
+
+	// Park 6 Alibates Flint Quarries National Park
+	<NationalPark Rating="4.7">
+		<Name>Alibates Flint Quaries</Name>
+		<Phone>806-857-6680</Phone>
+		<Phone>806-886-3826</Phone>
+		<Address>
+			<Number>37084</Number>
+			<Street>Alibates Rd</Street>
+			<City>Fritch</City>
+			<State>TX</State>
+			<Zip>79036</Zip>
+		</Address>
+	</NationalPark>
+
+	// Park 7 Apostle Islands National Park
+	<NationalPark>
+		<Name>Apostle Islands</Name>
+		<Phone>715-779-3398</Phone>
+		<Address>
+			<Number>415</Number>
+			<Street>Washington Ave</Street>
+			<City>Bayfield</City>
+			<State>WI</State>
+			<Zip>54814</Zip>
+		</Address>
+	</NationalPark>
+
+	// Park 8 Badlands National Park
+	<NationalPark>
+		<Name>Badlands</Name>
+		<Phone>605-433-5361</Phone>
+		<Address NearestAirport="Wall Municipal Airport">
+			<Number>25216</Number>
+			<Street>Ben Reifel Road</Street>
+			<City>Interior</City>
+			<State>SD</State>
+			<Zip>57750</Zip>
+		</Address>
+	</NationalPark>
+
+	// Park 9 Bluestone National Park
+	<NationalPark>
+		<Name>Bluestone</Name>
+		<Phone>304-465-0508</Phone>
+		<Phone>304-466-2805</Phone>
+		<Address>
+			<Number>2104</Number>
+			<Street>Bluestone Park Rd</Street>
+			<City>Hinton</City>
+			<State>WV</State>
+			<Zip>25951</Zip>
+		</Address>
+	</NationalPark>
+
+	// Park 10 Channel Islands National Park
+	<NationalPark>
+		<Name>Channel Islands</Name>
+		<Phone>805-658-5730</Phone>
+		<Address>
+			<Number>1901</Number>
+			<Street>Spinnaker Drive</Street>
+			<City>Ventura</City>
+			<State>CA</State>
+			<Zip>93001</Zip>
+		</Address>
+	</NationalPark>
 	
 </NationalParks>
