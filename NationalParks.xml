@@ -87,7 +87,7 @@
 		<Name>Alibates Flint Quaries</Name>
 		<Phone>806-857-6680</Phone>
 		<Phone>806-886-3826</Phone>
-		<Address>
+		<Address NearestAirport="Hutchinson County Airport">
 			<Number>37084</Number>
 			<Street>Alibates Rd</Street>
 			<City>Fritch</City>
@@ -100,7 +100,7 @@
 	<NationalPark>
 		<Name>Apostle Islands</Name>
 		<Phone>715-779-3398</Phone>
-		<Address>
+		<Address NearestAirport="Ironwood">
 			<Number>415</Number>
 			<Street>Washington Ave</Street>
 			<City>Bayfield</City>
@@ -127,7 +127,7 @@
 		<Name>Bluestone</Name>
 		<Phone>304-465-0508</Phone>
 		<Phone>304-466-2805</Phone>
-		<Address>
+		<Address NearestAirport="Mercer County Airport">
 			<Number>2104</Number>
 			<Street>Bluestone Park Rd</Street>
 			<City>Hinton</City>
@@ -140,7 +140,7 @@
 	<NationalPark>
 		<Name>Channel Islands</Name>
 		<Phone>805-658-5730</Phone>
-		<Address>
+		<Address NearestAirport="Oxnard Airport">
 			<Number>1901</Number>
 			<Street>Spinnaker Drive</Street>
 			<City>Ventura</City>
